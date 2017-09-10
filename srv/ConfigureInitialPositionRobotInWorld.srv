@@ -1,0 +1,3 @@
+#Initial position of the robot in world frame
+geometry_msgs/Point position
+---

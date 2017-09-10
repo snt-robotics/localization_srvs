@@ -1,0 +1,4 @@
+#Initial pose (position and yaw) of the robot in world frame
+float32 yaw
+geometry_msgs/Point position
+---
